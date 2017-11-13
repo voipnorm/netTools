@@ -15,7 +15,7 @@ app.post('/flint',webhook(flint));
 app.get('/monitor', function (req, res) {
   var roomCount = flint.bots.length;
   var json_response = {
-    'name':'WeatherBotPreProd',
+    'name':process.env.SPARK_BOT_STRING,
     'roomCount': roomCount
   };
   res.status(200).json(json_response);
