@@ -48,3 +48,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Nick Marus node-flint creator.
 
+##Flint Support
+
+Chat with us here:[flint-support](https://eurl.io/#rkwLEq4fZ)
